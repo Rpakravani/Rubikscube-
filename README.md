@@ -92,7 +92,9 @@ R R R
 RubiksCube cube = new RubiksCube("sample_cube.txt");
 cube.applyMoves("FRULDB");
 System.out.println(cube);
-## 🔧 Future Improvements
+
+
+🔧 **Future Improvements** 
 
 - Add counter‑clockwise and double moves (`F'`, `F2`, etc.)
 - Add scramble generator
