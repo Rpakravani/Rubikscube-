@@ -81,7 +81,16 @@ R R R
 
 ---
 
-## 🖥️ How to Use
+
+🔧 **Future Improvements**
+- Add counter‑clockwise and double moves (F', F2, etc.)
+- Add scramble generator
+- Add cube solver (Layer Method or Kociemba)
+- Add GUI visualization
+- Add unit tests
+- Add move‑notation parser with spaces and modifiers
+
+## 🧩 How to Use
 
 ### **Compile**
 
@@ -94,11 +103,5 @@ cube.applyMoves("FRULDB");
 System.out.println(cube);
 
 
-🔧 **Future Improvements** 
 
-- Add counter‑clockwise and double moves (`F'`, `F2`, etc.)
-- Add scramble generator
-- Add cube solver (Layer Method or Kociemba)
-- Add GUI visualization
-- Add unit tests
-- Add move‑notation parser with spaces and modifiers
+
